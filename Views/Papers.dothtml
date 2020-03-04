@@ -1,0 +1,5 @@
+﻿@viewModel PeerPaperReview.ViewModels.PapersViewModel, PeerPaperReview
+@masterPage Views/MasterPage.dotmaster
+<dot:Content ContentPlaceHolderID="MainContent">
+
+</dot:Content>
